@@ -1,3 +1,4 @@
+![image_atl](https://github.com/pedro8martins5/Pharmacy_Sales_Performance_Forecasting_Analysis/blob/main/GreenCross%20Pharmacy.png?raw=true)
 
 
 # Executive Overview
