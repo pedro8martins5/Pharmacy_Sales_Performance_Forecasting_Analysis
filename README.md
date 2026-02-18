@@ -24,7 +24,7 @@ Sales patterns remain consistent across all five years, confirming that these dy
 # Key Focus Areas
 
 * **Revenue Sustainability & Growth Quality - Understanding whether revenue performance reflects structural growth or short-term fluctuations, and identifying the underlying drivers of financial stability across markets.**
-**Seasonality & Demand Behaviour - Analysing recurring consumption patterns to determine how demand shifts throughout the year and how operational planning should adapt accordingly.**
-**Product Portfolio Balance & Risk Exposure - Evaluating the concentration of sales across therapeutic categories to assess dependency risks, resilience, and long-term portfolio sustainability.**
-**Operational Efficiency & Sales Distribution - Assessing how sales distribute across time periods to support more efficient staffing, opening-hour optimization, and stock replenishment cycles.**
-**Inventory Optimization & Predictive Planning - Aligning historical demand behaviour with forward-looking forecasting models to ensure optimal stock levels, minimise waste, and protect revenue continuity.**
+* **Seasonality & Demand Behaviour - Analysing recurring consumption patterns to determine how demand shifts throughout the year and how operational planning should adapt accordingly.**
+* **Product Portfolio Balance & Risk Exposure - Evaluating the concentration of sales across therapeutic categories to assess dependency risks, resilience, and long-term portfolio sustainability.**
+* **Operational Efficiency & Sales Distribution - Assessing how sales distribute across time periods to support more efficient staffing, opening-hour optimization, and stock replenishment cycles.**
+* **Inventory Optimization & Predictive Planning - Aligning historical demand behaviour with forward-looking forecasting models to ensure optimal stock levels, minimise waste, and protect revenue continuity.**
