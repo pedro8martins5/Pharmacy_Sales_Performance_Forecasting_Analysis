@@ -35,12 +35,17 @@ Sales patterns remain consistent across all five years, confirming that these dy
 
 ![image_atl](https://github.com/pedro8martins5/Pharmacy_Sales_Performance_Forecasting_Analysis/blob/main/Sales%20Revenue%20Analysis.png?raw=true)
 
-| **Revenue Growth & Peak Performance** | **Seasonal & Structural Insights** |
-|---------------------------------------|------------------------------------|
-|* Revenue averaged €25.5K annually, generating €127.6K over five years.
-* 2016 was the strongest year (€25.23K), reflecting sustained monthly peaks above the long-term average.
-* The highest monthly revenue reached 2.7K, confirming the business’s ability to generate strong demand cycles.
-* Performance peaks are concentrated in Q1, particularly January, which consistently outperforms other months. |
-| • **2016 was the strongest year (€25.23K)**. | • **July is consistently the weakest (~8.8K)**. |
-| • Peak monthly revenue reached **2.7K**. | • Q1 frequently outperforms Q4. |
-| • Performance cycles show expansion followed by correction. | • Structural volatility suggests demand sensitivity. |
+| ** 1. Revenue Growth & Peak Performance** | ** 2. Declining Phase & Volatility Control** |
+|---------------------------------------|-------------------------------------------|
+| Over a five-year period, GreenCross Pharmacy generated **€127.6K in total revenue**, averaging **€25.5K per year**, operating across Portugal, Spain, and Germany within a unified European healthcare market. | Following its operational peak in 2016 (€25.23K), revenue declined to **€17.09K in 2019**, marking the weakest year in the analysed period and highlighting exposure to demand normalization and strategic inventory adjustments. |
+| **2016 stands as the strongest year (€25.23K)**, reflecting optimal alignment between demand cycles and stock positioning. | Despite the decline, the overall five-year variation remains positive at **+20.09%**, reinforcing structural resilience rather than systemic contraction. |
+| Monthly performance peaks reached approximately **2.7K**, confirming scalable demand potential when supply strategy aligns with high-consumption periods. | Revenue troughs generally stabilized between **1.3K–1.4K**, indicating controlled volatility rather than erratic fluctuations, supporting predictable planning frameworks. |
+
+---
+
+| ** 3. Seasonality & Demand Cycles** | ** 4. Product Concentration & Revenue Structure** |
+|---------------------------------|----------------------------------------------|
+| Sales behaviour is structurally seasonal, repeating consistent patterns across all five years analysed. | Portfolio concentration is significant, with **Paracetamol representing approximately 58% of total revenue**, establishing it as the core commercial driver of the business. |
+| **January emerges as the strongest month (~€14K average)**, frequently outperforming Q4 expectations and demonstrating demand driven by health-related consumption cycles rather than traditional retail seasonality. | Secondary therapeutic categories contribute between **5–10% individually**, maintaining portfolio diversification while reinforcing dependence on a single dominant SKU. |
+| **July is consistently the weakest month (~€8.8K average)**, suggesting reduced consumer activity during summer periods across all three operating countries. | **Hypnotics & Sedatives account for just 1.15% of revenue**, indicating limited strategic weight within the current product mix. |
+| The persistence of these seasonal dynamics confirms embedded structural behaviour rather than isolated anomalies or short-term market shocks. | While Paracetamol’s dominance is commercially logical given OTC accessibility and broad applicability, this concentration introduces exposure to pricing pressure, supply chain disruption, and margin compression risk. |
