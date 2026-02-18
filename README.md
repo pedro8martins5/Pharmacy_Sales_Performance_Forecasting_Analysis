@@ -7,7 +7,7 @@
 
 GreenCross Pharmacy is a fictional multi-national pharmacy group operating across **Portugal, Spain, and Germany**, created to simulate a realistic European pharmaceutical retail environment.
 
-Over a five-year period, the business generated **€127.6K in total revenue**, averaging **€25.5K per year**. Across the analysed timeframe, performance delivered an overall **+20.09% positive variation**, signalling structural growth despite annual volatility.
+Over a five-year period (2014-2019), the business generated **€127.6K in total revenue**, averaging **€25.5K per year**. Across the analysed timeframe, performance delivered an overall **+20.09% positive variation**, signalling structural growth despite annual volatility.
 
 Revenue peaked in **2016 (€25.23K)** before declining to its lowest point in **2019 (€17.09K)** - a contraction that exposes operational sensitivity and the importance of demand-aligned inventory strategy.
 
