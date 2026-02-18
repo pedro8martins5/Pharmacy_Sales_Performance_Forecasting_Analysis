@@ -21,7 +21,7 @@ Other therapeutic categories remain relatively balanced, contributing between **
 
 Sales patterns remain consistent across all five years, confirming that these dynamics are not anomalies but structural behaviours embedded in the business model.
 
-# Key Focus Areas
+**Key Focus Areas**
 
 * **Revenue Sustainability & Growth Quality - Understanding whether revenue performance reflects structural growth or short-term fluctuations, and identifying the underlying drivers of financial stability across markets.**
 * **Seasonality & Demand Behaviour - Analysing recurring consumption patterns to determine how demand shifts throughout the year and how operational planning should adapt accordingly.**
