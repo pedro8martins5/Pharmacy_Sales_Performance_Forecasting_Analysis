@@ -1,7 +1,10 @@
 ![image_atl](https://github.com/pedro8martins5/Pharmacy_Sales_Performance_Forecasting_Analysis/blob/main/GreenCross%20Pharmacy.png?raw=true)
 
 
-# Executive Overview
+<div align="center">
+  <h1>#Título</h1>
+</div>
+
 
 GreenCross Pharmacy is a multinational retail pharmacy group operating across multiple European markets, serving over 250,000 recurring customers annually.
 
