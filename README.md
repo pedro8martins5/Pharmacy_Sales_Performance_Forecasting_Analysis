@@ -37,7 +37,10 @@ Sales patterns remain consistent across all five years, confirming that these dy
 
 | **Revenue Growth & Peak Performance** | **Seasonal & Structural Insights** |
 |---------------------------------------|------------------------------------|
-| • Revenue averaged **€25.5K annually** generating **€127.6K** over five years. | • **January is the strongest month (~14K avg.)** across all years. |
+|* Revenue averaged €25.5K annually, generating €127.6K over five years.
+* 2016 was the strongest year (€25.23K), reflecting sustained monthly peaks above the long-term average.
+* The highest monthly revenue reached 2.7K, confirming the business’s ability to generate strong demand cycles.
+* Performance peaks are concentrated in Q1, particularly January, which consistently outperforms other months. |
 | • **2016 was the strongest year (€25.23K)**. | • **July is consistently the weakest (~8.8K)**. |
 | • Peak monthly revenue reached **2.7K**. | • Q1 frequently outperforms Q4. |
 | • Performance cycles show expansion followed by correction. | • Structural volatility suggests demand sensitivity. |
