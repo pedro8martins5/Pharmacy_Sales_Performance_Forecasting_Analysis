@@ -32,4 +32,4 @@ Sales patterns remain consistent across all five years, confirming that these dy
 <div align="center">
   <h1>Executive Summary</h1>
 </div>
-![image_atl](
+![image_atl](https://github.com/pedro8martins5/Pharmacy_Sales_Performance_Forecasting_Analysis/blob/main/Sales%20Revenue%20Analysis.png?raw=true)
