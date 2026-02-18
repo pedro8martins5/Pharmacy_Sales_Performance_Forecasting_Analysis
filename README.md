@@ -28,3 +28,8 @@ Sales patterns remain consistent across all five years, confirming that these dy
 * **Product Portfolio Balance & Risk Exposure - Evaluating the concentration of sales across therapeutic categories to assess dependency risks, resilience, and long-term portfolio sustainability.**
 * **Operational Efficiency & Sales Distribution - Assessing how sales distribute across time periods to support more efficient staffing, opening-hour optimization, and stock replenishment cycles.**
 * **Inventory Optimization & Predictive Planning - Aligning historical demand behaviour with forward-looking forecasting models to ensure optimal stock levels, minimise waste, and protect revenue continuity.**
+
+<div align="center">
+  <h1>Executive Summary</h1>
+</div>
+![image_atl](
