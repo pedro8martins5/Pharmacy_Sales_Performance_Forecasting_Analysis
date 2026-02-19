@@ -47,3 +47,9 @@ Sales patterns remain consistent across all five years, confirming that these dy
 |-----------------------------------|--------------------------------------|
 | Several significant troughs fall near the **1.3K–1.4K** range, particularly during 2017 and 2018, reflecting recurring low-performance intervals. | Despite fluctuations, most monthly results remain within a controlled performance band between **1.4K and 2.3K**, reinforcing structural stability. |
 | The most extreme drop appears at the end of 2019, falling sharply to approximately **0.5K**, clearly deviating from historical patterns and signalling an anomaly. | The repeated oscillation around the average baseline suggests seasonality-driven behaviour rather than erratic market disruption. |
+
+<div align="center">
+  <h1>Dataset Structure and Data Model</h1>
+</div>
+
+![image_atl](
