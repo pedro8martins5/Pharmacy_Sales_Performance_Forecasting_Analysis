@@ -52,4 +52,4 @@ Sales patterns remain consistent across all five years, confirming that these dy
   <h1>Dataset Structure and Data Model</h1>
 </div>
 
-![image_atl](
+![image_atl](https://github.com/pedro8martins5/Pharmacy_Sales_Performance_Forecasting_Analysis/blob/main/GreenCross%20Data%20Model.png?raw=true)
