@@ -35,17 +35,15 @@ Sales patterns remain consistent across all five years, confirming that these dy
 
 ![image_atl](https://github.com/pedro8martins5/Pharmacy_Sales_Performance_Forecasting_Analysis/blob/main/Sales%20Revenue%20Analysis.png?raw=true)
 
-| ** 1. Revenue Growth & Peak Performance** | ** 2. Declining Phase & Volatility Control** |
-|---------------------------------------|-------------------------------------------|
-| Over a five-year period, GreenCross Pharmacy generated **€127.6K in total revenue**, averaging **€25.5K per year**, operating across Portugal, Spain, and Germany within a unified European healthcare market. | Following its operational peak in 2016 (€25.23K), revenue declined to **€17.09K in 2019**, marking the weakest year in the analysed period and highlighting exposure to demand normalization and strategic inventory adjustments. |
-| **2016 stands as the strongest year (€25.23K)**, reflecting optimal alignment between demand cycles and stock positioning. | Despite the decline, the overall five-year variation remains positive at **+20.09%**, reinforcing structural resilience rather than systemic contraction. |
-| Monthly performance peaks reached approximately **2.7K**, confirming scalable demand potential when supply strategy aligns with high-consumption periods. | Revenue troughs generally stabilized between **1.3K–1.4K**, indicating controlled volatility rather than erratic fluctuations, supporting predictable planning frameworks. |
+| **1.Revenue Trend Evolution** | **2.Peak Performance Periods** |
+|------------------------------|-------------------------------|
+| Revenue shows cyclical behaviour across the five-year period, fluctuating around an average monthly baseline of approximately **1.82K**, clearly marked by the horizontal reference line. | The most pronounced revenue peak occurs in early 2019, reaching approximately **2.8K**, representing the highest single-month performance in the entire period. |
+| From 2014 through 2016, performance progressively strengthens, with higher highs forming year over year, suggesting momentum building into 2016–2017. | Additional strong peaks are visible in 2016 and 2017, exceeding **2.5K–2.7K**, indicating repeated periods of accelerated demand rather than isolated outliers. |
+| Post-2017, volatility increases, with sharper swings between highs and lows, signalling a less stable revenue pattern compared to earlier years. | These peak clusters are concentrated in specific periods rather than evenly distributed, highlighting identifiable high-demand windows. |
 
 ---
 
-| ** 3. Seasonality & Demand Cycles** | ** 4. Product Concentration & Revenue Structure** |
-|---------------------------------|----------------------------------------------|
-| Sales behaviour is structurally seasonal, repeating consistent patterns across all five years analysed. | Portfolio concentration is significant, with **Paracetamol representing approximately 58% of total revenue**, establishing it as the core commercial driver of the business. |
-| **January emerges as the strongest month (~€14K average)**, frequently outperforming Q4 expectations and demonstrating demand driven by health-related consumption cycles rather than traditional retail seasonality. | Secondary therapeutic categories contribute between **5–10% individually**, maintaining portfolio diversification while reinforcing dependence on a single dominant SKU. |
-| **July is consistently the weakest month (~€8.8K average)**, suggesting reduced consumer activity during summer periods across all three operating countries. | **Hypnotics & Sedatives account for just 1.15% of revenue**, indicating limited strategic weight within the current product mix. |
-| The persistence of these seasonal dynamics confirms embedded structural behaviour rather than isolated anomalies or short-term market shocks. | While Paracetamol’s dominance is commercially logical given OTC accessibility and broad applicability, this concentration introduces exposure to pricing pressure, supply chain disruption, and margin compression risk. |
+| **3.Revenue Declines & Volatility** | **4.Structural Patterns & Stability** |
+|-----------------------------------|--------------------------------------|
+| Several significant troughs fall near the **1.3K–1.4K** range, particularly during 2017 and 2018, reflecting recurring low-performance intervals. | Despite fluctuations, most monthly results remain within a controlled performance band between **1.4K and 2.3K**, reinforcing structural stability. |
+| The most extreme drop appears at the end of 2019, falling sharply to approximately **0.5K**, clearly deviating from historical patterns and signalling an anomaly. | The repeated oscillation around the average baseline suggests seasonality-driven behaviour rather than erratic market disruption. |
