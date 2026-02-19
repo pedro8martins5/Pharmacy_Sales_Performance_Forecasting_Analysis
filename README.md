@@ -52,4 +52,5 @@ Sales patterns remain consistent across all five years, confirming that these dy
   <h1>Dataset Structure and Data Model</h1>
 </div>
 
+Centralized sales data model integrating time dimensions and pharmaceutical sales across hourly, daily, weekly, and monthly tables, encompassing **43 columns and 771,814 rows.**
 ![image_atl](https://github.com/pedro8martins5/Pharmacy_Sales_Performance_Forecasting_Analysis/blob/main/GreenCross%20Data%20Model.png?raw=true)
